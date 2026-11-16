@@ -20,6 +20,10 @@ Este projeto é uma página web simples desenvolvida como atividade prática par
 2. Verifique se as imagens (`imagem1.jpg`, `imagem2.jpg` e `imagem3.jpg`) estão salvas na mesma pasta do arquivo `index.html`.
 3. Dê um duplo clique no arquivo `index.html` ou clique com o botão direito e escolha a opção para abrir com o seu navegador de preferência (Chrome, Edge, Firefox, etc.).
 
+## Link executável
+
+https://henrique-ikeda1.github.io/Meus-sites-favoritos/
+
 ## 👤 Autor
 
 - **Henrique Yoshio Ikeda** - Desenvolvimento da página.
