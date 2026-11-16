@@ -1,10 +1,10 @@
 # Curiosidades sobre o Corinthians
 
-Este projeto é uma página web simples desenvolvida como atividade prática para o curso de Desenvolvimento de Sistemas da Etec (Agenda 12). O site tem como objetivo apresentar uma lista de portais e sites recomendados sobre o Sport Club Corinthians Paulista.
+Este projeto é uma página web simples desenvolvida como atividade prática para o curso técnico em Desenvolvimento de Sistemas do Centro Paula Souza. O site tem como objetivo apresentar uma lista de portais e sites recomendados sobre o Sport Club Corinthians Paulista.
 
 ## 🚀 Funcionalidades
 
-- Exibição de três sites relacionados ao tema.
+- Exibição de três sites relacionados ao time.
 - Nome do site posicionado acima de cada imagem.
 - Imagens clicáveis (links aplicados nas imagens).
 - Links de texto diretos abaixo de cada imagem.
