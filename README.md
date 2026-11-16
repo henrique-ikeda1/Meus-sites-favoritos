@@ -22,4 +22,4 @@ Este projeto é uma página web simples desenvolvida como atividade prática par
 
 ## 👤 Autor
 
-- **[Henrique Yoshio Ikeda]** - Desenvolvimento da página.
+- **Henrique Yoshio Ikeda** - Desenvolvimento da página.
